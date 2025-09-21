@@ -6,4 +6,7 @@ class Solution:
         for i in l:
             while n%i==0:
                n= n//i
-        return False if n != 1 else True
+        if n!=1:
+            return False
+        else:
+            return True
