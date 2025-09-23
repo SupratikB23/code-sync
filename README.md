@@ -13,13 +13,6 @@
     <a href="https://dotpush.ca/" target="_blank">dotpush extension</a>.
   </p>
 
-  <h2>Repo Structure</h2>
-  <pre>
-LeetCode-Solutions/
-│
-├── leetcode/
-└── README.html</pre>
-
   <h3>Languages Used:</h3>
   <ul>
     <li>Python (primary)</li>
