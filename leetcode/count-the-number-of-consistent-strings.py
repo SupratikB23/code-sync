@@ -5,7 +5,7 @@ class Solution:
         for word in words:
             valid = True
             for j in word:
-                if j not in x:  # ✅ Fixed: Check existence (no remove)
+                if j not in x:
                     valid = False
                     break
             if valid:
