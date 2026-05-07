@@ -41,15 +41,6 @@ The problems span a wide range of DSA concepts, including:
 - **Recursion & Dynamic Programming** — Fibonacci, game theory, subsets
 - **Stack & Simulation** — parentheses, baseball game, operations
 
----
-
-## 🛠️ Languages Used
-
-| Language | Role | Files |
-|----------|------|-------|
-| 🐍 Python | Primary | 147 |
-| ⚙️ C++ | Secondary | 1 |
-| 🔵 C | Secondary | 1 |
 
 ---
 
